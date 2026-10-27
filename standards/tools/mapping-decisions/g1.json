@@ -1,0 +1,650 @@
+{
+ "el12-c7d2xf": {
+  "unit": "바른 자세로 읽고 쓰기",
+  "subject": "el|el12|국어",
+  "codes": [
+   "2국02-01",
+   "2국03-01"
+  ],
+  "reason": "바른 자세로 소리 내어 읽기와 글자 쓰기의 첫걸음",
+  "mismatch": "바른 자세 자체는 고시 성취기준에 직접 없음(발표 자세는 2국01-04)",
+  "confidence": "medium"
+ },
+ "el12-1l5ihbm": {
+  "unit": "재미있게 ㄱㄴㄷ",
+  "subject": "el|el12|국어",
+  "codes": [
+   "2국04-01"
+  ],
+  "reason": "자음자의 이름과 소릿값 익히기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-1wuzqhs": {
+  "unit": "다 함께 아야어여",
+  "subject": "el|el12|국어",
+  "codes": [
+   "2국04-01"
+  ],
+  "reason": "모음자의 이름과 소릿값 익히기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-xpu8fk": {
+  "unit": "글자를 만들어요",
+  "subject": "el|el12|국어",
+  "codes": [
+   "2국04-01",
+   "2국03-01"
+  ],
+  "reason": "자모를 합쳐 글자를 만들고 바르게 쓰기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-19saf5x": {
+  "unit": "다정하게 인사해요",
+  "subject": "el|el12|국어",
+  "codes": [
+   "2국01-02"
+  ],
+  "reason": "상황에 맞게 바르고 고운 말로 인사 나누기",
+  "mismatch": "",
+  "confidence": "medium"
+ },
+ "el12-5v7xqd": {
+  "unit": "받침이 있는 글자",
+  "subject": "el|el12|국어",
+  "codes": [
+   "2국04-01",
+   "2국04-02",
+   "2국03-01"
+  ],
+  "reason": "받침 있는 글자의 소리와 표기를 알고 바르게 쓰기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-115qihe": {
+  "unit": "생각을 나타내요",
+  "subject": "el|el12|국어",
+  "codes": [
+   "2국03-02",
+   "2국04-03"
+  ],
+  "reason": "생각을 문장으로 나타내고 문장 부호 쓰기",
+  "mismatch": "",
+  "confidence": "medium"
+ },
+ "el12-1h2oezv": {
+  "unit": "소리 내어 또박또박 읽어요",
+  "subject": "el|el12|국어",
+  "codes": [
+   "2국02-01",
+   "2국02-02"
+  ],
+  "reason": "정확하게 소리 내어 읽고 알맞게 띄어 읽기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-7o96yk": {
+  "unit": "그림일기를 써요",
+  "subject": "el|el12|국어",
+  "codes": [
+   "2국03-04",
+   "2국06-02"
+  ],
+  "reason": "겪은 일을 글과 그림으로 표현하는 그림일기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-9iimdm": {
+  "unit": "소중한 책을 소개해요",
+  "subject": "el|el12|국어",
+  "codes": [
+   "2국03-03",
+   "2국02-05",
+   "2국05-02"
+  ],
+  "reason": "좋아하는 책을 소개하는 글 쓰기와 즐겨 읽는 태도",
+  "mismatch": "",
+  "confidence": "medium"
+ },
+ "el12-frn7sy": {
+  "unit": "소리와 모양을 흉내 내요",
+  "subject": "el|el12|국어",
+  "codes": [
+   "2국05-01",
+   "2국05-04"
+  ],
+  "reason": "흉내 내는 말로 말의 재미 느끼기",
+  "mismatch": "흉내 내는 말을 직접 다루는 성취기준은 없어 말놀이·시 흥미 기준으로 대응",
+  "confidence": "medium"
+ },
+ "el12-ibfd38": {
+  "unit": "말놀이를 해요",
+  "subject": "el|el12|국어",
+  "codes": [
+   "2국05-01"
+  ],
+  "reason": "말놀이로 말의 재미와 즐거움 느끼기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-1loklrc": {
+  "unit": "글자를 바르게 써요",
+  "subject": "el|el12|국어",
+  "codes": [
+   "2국03-01",
+   "2국04-02"
+  ],
+  "reason": "글자와 단어를 바르게 쓰기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-1nogzf3": {
+  "unit": "감동을 나누어요",
+  "subject": "el|el12|국어",
+  "codes": [
+   "2국05-02",
+   "2국05-04"
+  ],
+  "reason": "작품을 읽고 느낀 점을 나누기",
+  "mismatch": "",
+  "confidence": "medium"
+ },
+ "el12-1xg9vtq": {
+  "unit": "다른 사람을 생각해요",
+  "subject": "el|el12|국어",
+  "codes": [
+   "2국01-02",
+   "2국01-03"
+  ],
+  "reason": "상대를 배려하며 듣고 말하기",
+  "mismatch": "단원명이 포괄적이라 배려하는 대화 관련 기준으로 판단",
+  "confidence": "medium"
+ },
+ "el12-koru44": {
+  "unit": "인물의 말과 행동을 상상해요",
+  "subject": "el|el12|국어",
+  "codes": [
+   "2국05-03"
+  ],
+  "reason": "인물의 말과 행동을 상상하여 표현하기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-1e0sxsx": {
+  "unit": "장면을 떠올리며",
+  "subject": "el|el12|국어",
+  "codes": [
+   "2국05-03",
+   "2국05-02"
+  ],
+  "reason": "작품 장면을 상상하고 느낀 점 말하기",
+  "mismatch": "",
+  "confidence": "medium"
+ },
+ "el12-k07v9r": {
+  "unit": "마음을 짐작해요",
+  "subject": "el|el12|국어",
+  "codes": [
+   "2국02-04"
+  ],
+  "reason": "인물의 마음을 짐작하며 읽기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-iy7295": {
+  "unit": "낱말을 바르고 정확하게 써요",
+  "subject": "el|el12|국어",
+  "codes": [
+   "2국04-02",
+   "2국03-01"
+  ],
+  "reason": "소리와 표기가 다른 낱말을 바르게 쓰기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-rsi2j4": {
+  "unit": "차례대로 말해요",
+  "subject": "el|el12|국어",
+  "codes": [
+   "2국01-01"
+  ],
+  "reason": "일이 일어난 순서를 고려하여 말하기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-1bov6u0": {
+  "unit": "일이 일어난 차례를 살펴요",
+  "subject": "el|el12|국어",
+  "codes": [
+   "2국01-01",
+   "2국02-03"
+  ],
+  "reason": "일의 차례를 파악하며 듣고 읽기",
+  "mismatch": "",
+  "confidence": "medium"
+ },
+ "el12-sq6y94": {
+  "unit": "바른 말로 이야기 나누어요",
+  "subject": "el|el12|국어",
+  "codes": [
+   "2국01-02",
+   "2국01-03"
+  ],
+  "reason": "바르고 고운 말로 말차례 지키며 대화하기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-1xvhylv": {
+  "unit": "주요 내용을 찾아요",
+  "subject": "el|el12|국어",
+  "codes": [
+   "2국02-03",
+   "2국01-01"
+  ],
+  "reason": "글이나 말의 중요한 내용 찾기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-17q81cs": {
+  "unit": "마음을 전하는 글을 써요",
+  "subject": "el|el12|국어",
+  "codes": [
+   "2국03-02"
+  ],
+  "reason": "자신의 마음을 문장으로 표현하는 글 쓰기",
+  "mismatch": "마음을 전하는 글(편지) 갈래는 고시에 직접 없음",
+  "confidence": "medium"
+ },
+ "el12-8236l2": {
+  "unit": "칭찬하는 말을 주고받아요",
+  "subject": "el|el12|국어",
+  "codes": [
+   "2국01-02"
+  ],
+  "reason": "칭찬하는 고운 말로 감정 나누기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-syy88y": {
+  "unit": "겪은 일을 글로 써요",
+  "subject": "el|el12|국어",
+  "codes": [
+   "2국03-04"
+  ],
+  "reason": "겪은 일을 표현하는 글 쓰기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-fuzjcd": {
+  "unit": "대화와 공감",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국01-01",
+   "6국01-03"
+  ],
+  "reason": "상대 말을 집중해 추론하며 듣고 말하기",
+  "mismatch": "공감하며 대화하기는 2022 고시에 직접 대응 기준이 없어 가까운 듣기 기준으로 대응",
+  "confidence": "low"
+ },
+ "el56-1onef9y": {
+  "unit": "작품을 감상해요",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국05-04",
+   "6국05-06"
+  ],
+  "reason": "작품을 감상하고 의견 나누기",
+  "mismatch": "",
+  "confidence": "medium"
+ },
+ "el56-zzy3xv": {
+  "unit": "글을 요약해요",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국02-01"
+  ],
+  "reason": "글의 구조를 고려하여 요약하기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-h2llq7": {
+  "unit": "글쓰기의 과정",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국03-05",
+   "6국03-04"
+  ],
+  "reason": "쓰기 과정을 점검하며 글 쓰기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-5rlctz": {
+  "unit": "글쓴이의 주장",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국02-01",
+   "6국02-03"
+  ],
+  "reason": "글쓴이의 주장 파악과 타당성 평가",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-1mcl1ic": {
+  "unit": "토의하여 해결해요",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국01-06",
+   "6국02-04"
+  ],
+  "reason": "토의로 문제 해결하기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-zdrqh9": {
+  "unit": "기행문을 써요",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국03-03"
+  ],
+  "reason": "체험한 일의 감상을 나타내는 기행문 쓰기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-1vr6cl3": {
+  "unit": "아는 것과 새롭게 안 것",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국02-02",
+   "6국02-05"
+  ],
+  "reason": "배경지식을 활용해 읽기",
+  "mismatch": "배경지식 활용 읽기는 고시에 직접 없어 추론·읽기 태도 기준으로 대응",
+  "confidence": "low"
+ },
+ "el56-1re9tfx": {
+  "unit": "여러 가지 방법으로 읽어요",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국02-05",
+   "6국02-01"
+  ],
+  "reason": "목적에 맞는 다양한 읽기 방법과 읽기 참여",
+  "mismatch": "읽기 방법 자체를 다루는 기준이 없어 근접 기준으로 대응",
+  "confidence": "low"
+ },
+ "el56-hkesp3": {
+  "unit": "주인공이 되어",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국05-03",
+   "6국05-05"
+  ],
+  "reason": "인물이 되어 이야기 이해·표현하기",
+  "mismatch": "",
+  "confidence": "medium"
+ },
+ "el56-gvycr8": {
+  "unit": "마음을 나누며 대화해요",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국01-01",
+   "6국01-03"
+  ],
+  "reason": "상대 마음을 헤아리며 대화하기",
+  "mismatch": "공감 대화는 2022 고시에 직접 대응 기준이 없음",
+  "confidence": "low"
+ },
+ "el56-zn0w17": {
+  "unit": "지식이나 경험을 활용해요",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국02-02",
+   "6국02-04"
+  ],
+  "reason": "지식·경험을 활용해 추론하고 문제 해결에 활용하며 읽기",
+  "mismatch": "",
+  "confidence": "medium"
+ },
+ "el56-zze3td": {
+  "unit": "의견을 조정하며 토의해요",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국01-06"
+  ],
+  "reason": "토의에서 의견 비교·조정하기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-h5vvk2": {
+  "unit": "겪은 일을 써요",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국03-03",
+   "6국05-05"
+  ],
+  "reason": "체험한 일과 감상을 글로 쓰기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-ne1vao": {
+  "unit": "여러 가지 매체 자료",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국06-01",
+   "6국06-02",
+   "6국04-01"
+  ],
+  "reason": "다양한 매체 자료 찾기·평가·표현 효과",
+  "mismatch": "",
+  "confidence": "medium"
+ },
+ "el56-18yc3hs": {
+  "unit": "타당성을 생각하며 토론해요",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국01-07",
+   "6국01-02"
+  ],
+  "reason": "근거의 타당성을 따지며 토론하기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-1ux9tod": {
+  "unit": "중요한 내용을 요약해요",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국02-01"
+  ],
+  "reason": "중요한 내용 요약하기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-102nks0": {
+  "unit": "우리말 지킴이",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국04-06",
+   "6국04-03"
+  ],
+  "reason": "바른 우리말 사용 태도와 고유어 가치",
+  "mismatch": "",
+  "confidence": "medium"
+ },
+ "el56-1mosi8k": {
+  "unit": "비유하는 표현",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국05-02"
+  ],
+  "reason": "비유적 표현의 효과 감상",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-b5fee0": {
+  "unit": "이야기를 간추려요",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국05-03",
+   "6국02-01"
+  ],
+  "reason": "인물·사건·배경을 파악해 이야기 간추리기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-bsufjb": {
+  "unit": "짜임새 있게 구성해요",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국01-05",
+   "6국03-04"
+  ],
+  "reason": "내용을 짜임새 있게 구성해 발표·글쓰기",
+  "mismatch": "",
+  "confidence": "medium"
+ },
+ "el56-1k0jg8r": {
+  "unit": "주장과 근거를 판단해요",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국01-02",
+   "6국02-03",
+   "6국03-02"
+  ],
+  "reason": "주장과 근거의 타당성 판단",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-1mjqkaq": {
+  "unit": "속담을 활용해요",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국04-03"
+  ],
+  "reason": "관용 표현(속담)의 쓰임과 활용",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-16b6a0j": {
+  "unit": "내용을 추론해요",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국02-02",
+   "6국01-01"
+  ],
+  "reason": "생략된 내용 추론하기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-1ar980c": {
+  "unit": "우리말을 가꾸어요",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국04-06",
+   "6국04-03"
+  ],
+  "reason": "우리말을 바르게 고치고 가꾸는 태도",
+  "mismatch": "",
+  "confidence": "medium"
+ },
+ "el56-ulemxq": {
+  "unit": "작품 속 인물과 나",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국05-06",
+   "6국05-03"
+  ],
+  "reason": "인물과 자신의 삶을 연관 지어 성찰",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-kynsgc": {
+  "unit": "마음을 나누는 글을 써요",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국03-04",
+   "6국03-06"
+  ],
+  "reason": "독자를 고려해 마음을 나누는 글 쓰기와 공유",
+  "mismatch": "마음을 나누는 글 갈래는 고시에 직접 없음",
+  "confidence": "low"
+ },
+ "el56-1yg1gp5": {
+  "unit": "작품을 감상하고 비평하기",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국05-04",
+   "6국05-01"
+  ],
+  "reason": "작품 감상과 의견(비평) 나누기",
+  "mismatch": "",
+  "confidence": "medium"
+ },
+ "el56-1fs3vnq": {
+  "unit": "글에 담긴 생각과 비교해요",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국02-04"
+  ],
+  "reason": "다양한 관점의 글을 비교해 읽기",
+  "mismatch": "",
+  "confidence": "medium"
+ },
+ "el56-142rvlz": {
+  "unit": "정보와 표현 판단하기",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국02-03",
+   "6국06-02",
+   "6국04-01"
+  ],
+  "reason": "내용 타당성·표현 적절성·정보 신뢰성 판단",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-1ogny84": {
+  "unit": "글 고쳐 쓰기",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국03-05",
+   "6국04-06"
+  ],
+  "reason": "글 전체를 통일성 있게 고쳐 쓰기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-1ysvphx": {
+  "unit": "함께 연극을 즐겨요",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국05-03",
+   "6국05-05"
+  ],
+  "reason": "극을 읽고 표현하며 연극 즐기기",
+  "mismatch": "",
+  "confidence": "medium"
+ },
+ "el56-1fha4rt": {
+  "unit": "효과적으로 발표해요",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국01-05",
+   "6국06-03"
+  ],
+  "reason": "매체를 활용한 효과적 발표",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-wh2rmm": {
+  "unit": "글에 담긴 생각과 의도",
+  "subject": "el|el56|국어",
+  "codes": [
+   "6국05-01",
+   "6국02-03"
+  ],
+  "reason": "작가의 의도와 글에 담긴 생각 파악",
+  "mismatch": "",
+  "confidence": "medium"
+ }
+}

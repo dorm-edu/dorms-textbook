@@ -1,0 +1,58 @@
+{
+  "regions": [
+    "icn1"
+  ],
+  "outputDirectory": "public",
+  "functions": {
+    "api/check.js": {
+      "memory": 2048,
+      "maxDuration": 120
+    },
+    "api/lesson.js": {
+      "maxDuration": 15
+    },
+    "api/harness.js": {
+      "maxDuration": 10,
+      "includeFiles": "harness/**"
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/l/:id/lesson.js",
+      "destination": "/api/lesson?id=:id&part=js"
+    },
+    {
+      "source": "/l/:id",
+      "destination": "/api/lesson?id=:id&part=html"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/engine/(.*)",
+      "headers": [
+        {
+          "key": "access-control-allow-origin",
+          "value": "*"
+        },
+        {
+          "key": "cache-control",
+          "value": "public, max-age=600, s-maxage=86400"
+        },
+        {
+          "key": "x-content-type-options",
+          "value": "nosniff"
+        }
+      ]
+    },
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "x-robots-tag",
+          "value": "noindex, nofollow"
+        }
+      ]
+    }
+  ],
+  "buildCommand": ""
+}

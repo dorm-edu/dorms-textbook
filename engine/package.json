@@ -1,0 +1,16 @@
+{
+  "name": "@dorms-textbook/engine",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "vite dev --port 5310 --strictPort",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "three": "0.170.0"
+  },
+  "devDependencies": {
+    "vite": "6.3.5"
+  }
+}

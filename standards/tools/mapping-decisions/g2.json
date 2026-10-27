@@ -1,0 +1,764 @@
+{
+ "el12-d7rfaz": {
+  "unit": "9까지의 수",
+  "subject": "el|el12|수학",
+  "codes": [
+   "2수01-01",
+   "2수01-03"
+  ],
+  "reason": "9까지의 수 세기·읽기·쓰기와 크기 비교",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-1sgleo9": {
+  "unit": "여러 가지 모양",
+  "subject": "el|el12|수학",
+  "codes": [
+   "2수03-01"
+  ],
+  "reason": "직육면체·원기둥·구 모양 찾기와 만들기(1-1 입체 모양)",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-q761o9": {
+  "unit": "덧셈과 뺄셈",
+  "subject": "el|el12|수학",
+  "codes": [
+   "2수01-04",
+   "2수01-05",
+   "2수01-06",
+   "2수01-07"
+  ],
+  "reason": "수의 분해·합성과 한 자리 수 덧셈·뺄셈의 의미와 계산",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-1q5lpf6": {
+  "unit": "비교하기",
+  "subject": "el|el12|수학",
+  "codes": [
+   "2수03-06"
+  ],
+  "reason": "길이·들이·무게·넓이 비교",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-p4s6m5": {
+  "unit": "50까지의 수",
+  "subject": "el|el12|수학",
+  "codes": [
+   "2수01-01",
+   "2수01-03"
+  ],
+  "reason": "50까지의 수 세기·읽기·쓰기와 크기 비교",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-1h7blcr": {
+  "unit": "100까지의 수",
+  "subject": "el|el12|수학",
+  "codes": [
+   "2수01-01",
+   "2수01-03"
+  ],
+  "reason": "100까지의 수 개념과 크기 비교",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-1g5m5fc": {
+  "unit": "덧셈과 뺄셈(여러 가지)",
+  "subject": "el|el12|수학",
+  "codes": [
+   "2수01-04",
+   "2수01-06",
+   "2수01-08"
+  ],
+  "reason": "10 모으기·가르기, 두 자리 범위 계산, 세 수의 덧셈·뺄셈",
+  "mismatch": "",
+  "confidence": "medium"
+ },
+ "el12-7tfbtb": {
+  "unit": "여러 가지 모양 알아보기",
+  "subject": "el|el12|수학",
+  "codes": [
+   "2수03-03"
+  ],
+  "reason": "삼각형·사각형·원 모양 찾기와 만들기(1-2 평면 모양)",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-mogyrt": {
+  "unit": "시계 보기와 규칙 찾기",
+  "subject": "el|el12|수학",
+  "codes": [
+   "2수03-07",
+   "2수02-01",
+   "2수02-02"
+  ],
+  "reason": "시각 읽기와 배열에서 규칙 찾기·만들기",
+  "mismatch": "단원 하나에 도형과 측정·변화와 관계 두 영역이 섞여 있음",
+  "confidence": "high"
+ },
+ "el12-m43jaq": {
+  "unit": "세 자리 수",
+  "subject": "el|el12|수학",
+  "codes": [
+   "2수01-02",
+   "2수01-03"
+  ],
+  "reason": "백의 자릿값과 세 자리 수 읽고 쓰기, 크기 비교",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-lpz77l": {
+  "unit": "여러 가지 도형",
+  "subject": "el|el12|수학",
+  "codes": [
+   "2수03-04",
+   "2수03-05",
+   "2수03-02"
+  ],
+  "reason": "삼각형·사각형·원의 이해와 공통점, 쌓기나무 모양 만들기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-1pxa6gt": {
+  "unit": "덧셈과 뺄셈(받아올림·받아내림)",
+  "subject": "el|el12|수학",
+  "codes": [
+   "2수01-06",
+   "2수01-07",
+   "2수01-08",
+   "2수01-09"
+  ],
+  "reason": "두 자리 수 받아올림·받아내림 계산, 관계, 세 수 계산, □ 구하기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-1xr5gh6": {
+  "unit": "길이 재기",
+  "subject": "el|el12|수학",
+  "codes": [
+   "2수03-10",
+   "2수03-12"
+  ],
+  "reason": "1cm 단위로 길이 재기와 어림",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-s8p3d6": {
+  "unit": "분류하기",
+  "subject": "el|el12|수학",
+  "codes": [
+   "2수04-01"
+  ],
+  "reason": "기준에 따라 분류하고 개수 세기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-qb86yn": {
+  "unit": "곱셈",
+  "subject": "el|el12|수학",
+  "codes": [
+   "2수01-10"
+  ],
+  "reason": "곱셈의 의미 이해",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-zy5df2": {
+  "unit": "네 자리 수",
+  "subject": "el|el12|수학",
+  "codes": [
+   "2수01-02",
+   "2수01-03"
+  ],
+  "reason": "천의 자릿값과 네 자리 수 읽고 쓰기, 크기 비교",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-ilmzhb": {
+  "unit": "곱셈구구",
+  "subject": "el|el12|수학",
+  "codes": [
+   "2수01-11"
+  ],
+  "reason": "곱셈구구와 한 자리 수 곱셈",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-16pi2mo": {
+  "unit": "길이 재기(m와 cm)",
+  "subject": "el|el12|수학",
+  "codes": [
+   "2수03-10",
+   "2수03-11",
+   "2수03-12",
+   "2수03-13"
+  ],
+  "reason": "1m 단위, m와 cm 관계, 어림, 길이의 덧셈·뺄셈",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-ds5bgp": {
+  "unit": "시각과 시간",
+  "subject": "el|el12|수학",
+  "codes": [
+   "2수03-07",
+   "2수03-08",
+   "2수03-09"
+  ],
+  "reason": "몇 시 몇 분 읽기, 시간 단위 관계",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-1lsw2li": {
+  "unit": "표와 그래프",
+  "subject": "el|el12|수학",
+  "codes": [
+   "2수04-02",
+   "2수04-03"
+  ],
+  "reason": "자료를 표와 ○·× 그래프로 나타내기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el12-1o0xamp": {
+  "unit": "규칙 찾기",
+  "subject": "el|el12|수학",
+  "codes": [
+   "2수02-01",
+   "2수02-02"
+  ],
+  "reason": "배열에서 규칙 찾기와 규칙대로 배열하기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-1wrrk1z": {
+  "unit": "자연수의 혼합 계산",
+  "subject": "el|el56|수학",
+  "codes": [
+   "6수01-01"
+  ],
+  "reason": "혼합 계산 순서",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-1uaercz": {
+  "unit": "약수와 배수",
+  "subject": "el|el56|수학",
+  "codes": [
+   "6수01-04",
+   "6수01-05"
+  ],
+  "reason": "약수·공약수·최대공약수, 배수·공배수·최소공배수",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-18zldie": {
+  "unit": "규칙과 대응",
+  "subject": "el|el56|수학",
+  "codes": [
+   "6수02-01"
+  ],
+  "reason": "대응 관계 표에서 규칙 찾고 식으로 나타내기",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-v99iyi": {
+  "unit": "약분과 통분",
+  "subject": "el|el56|수학",
+  "codes": [
+   "6수01-06",
+   "6수01-07"
+  ],
+  "reason": "크기가 같은 분수, 약분·통분, 분모가 다른 분수 크기 비교",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-12jxpc5": {
+  "unit": "분수의 덧셈과 뺄셈",
+  "subject": "el|el56|수학",
+  "codes": [
+   "6수01-08"
+  ],
+  "reason": "분모가 다른 분수의 덧셈과 뺄셈",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-r2j2xr": {
+  "unit": "다각형의 둘레와 넓이",
+  "subject": "el|el56|수학",
+  "codes": [
+   "6수03-11",
+   "6수03-12",
+   "6수03-13",
+   "6수03-14"
+  ],
+  "reason": "둘레, 넓이 단위, 사각형·삼각형 등의 넓이",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-1jkhhoi": {
+  "unit": "수의 범위와 어림하기",
+  "subject": "el|el56|수학",
+  "codes": [
+   "6수01-02",
+   "6수01-03"
+  ],
+  "reason": "이상·이하·초과·미만과 올림·버림·반올림",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-1218dkj": {
+  "unit": "분수의 곱셈",
+  "subject": "el|el56|수학",
+  "codes": [
+   "6수01-09"
+  ],
+  "reason": "분수의 곱셈 원리와 계산",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-7bsk1j": {
+  "unit": "합동과 대칭",
+  "subject": "el|el56|수학",
+  "codes": [
+   "6수03-01",
+   "6수03-02"
+  ],
+  "reason": "합동과 선대칭·점대칭도형",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-124q7fv": {
+  "unit": "소수의 곱셈",
+  "subject": "el|el56|수학",
+  "codes": [
+   "6수01-13"
+  ],
+  "reason": "소수의 곱셈 원리와 계산",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-14ji5lw": {
+  "unit": "직육면체",
+  "subject": "el|el56|수학",
+  "codes": [
+   "6수03-03",
+   "6수03-04"
+  ],
+  "reason": "직육면체·정육면체의 성질, 겨냥도와 전개도",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-1mfv9lr": {
+  "unit": "평균과 가능성",
+  "subject": "el|el56|수학",
+  "codes": [
+   "6수04-01",
+   "6수04-04",
+   "6수04-05",
+   "6수04-06"
+  ],
+  "reason": "평균 구하기와 사건이 일어날 가능성",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-1rx0wmh": {
+  "unit": "분수의 나눗셈",
+  "subject": "el|el56|수학",
+  "codes": [
+   "6수01-10",
+   "6수01-11"
+  ],
+  "reason": "나눗셈 몫을 분수로, 분수의 나눗셈",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-fl98uv": {
+  "unit": "각기둥과 각뿔",
+  "subject": "el|el56|수학",
+  "codes": [
+   "6수03-05",
+   "6수03-06"
+  ],
+  "reason": "각기둥·각뿔의 성질과 각기둥 전개도",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-1tb3275": {
+  "unit": "소수의 나눗셈",
+  "subject": "el|el56|수학",
+  "codes": [
+   "6수01-14",
+   "6수01-15"
+  ],
+  "reason": "나눗셈 몫을 소수로, 소수의 나눗셈",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-790vre": {
+  "unit": "비와 비율",
+  "subject": "el|el56|수학",
+  "codes": [
+   "6수02-02",
+   "6수02-03"
+  ],
+  "reason": "비의 개념, 비율·백분율",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-1br90g6": {
+  "unit": "여러 가지 그래프",
+  "subject": "el|el56|수학",
+  "codes": [
+   "6수04-02",
+   "6수04-03"
+  ],
+  "reason": "띠그래프·원그래프와 적절한 그래프 선택",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-191h370": {
+  "unit": "직육면체의 부피와 겉넓이",
+  "subject": "el|el56|수학",
+  "codes": [
+   "6수03-17",
+   "6수03-18",
+   "6수03-19"
+  ],
+  "reason": "직육면체·정육면체의 겉넓이, 부피 단위와 부피",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-pvmm3m": {
+  "unit": "공간과 입체",
+  "subject": "el|el56|수학",
+  "codes": [
+   "6수03-09",
+   "6수03-10"
+  ],
+  "reason": "쌓기나무 개수와 위·앞·옆 모양",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-ctf99t": {
+  "unit": "비례식과 비례배분",
+  "subject": "el|el56|수학",
+  "codes": [
+   "6수02-04",
+   "6수02-05"
+  ],
+  "reason": "비례식의 성질과 비례배분",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-wq3k4t": {
+  "unit": "원의 둘레와 넓이",
+  "subject": "el|el56|수학",
+  "codes": [
+   "6수03-15",
+   "6수03-16"
+  ],
+  "reason": "원주율, 원주와 원의 넓이",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "el56-1mn9her": {
+  "unit": "원기둥, 원뿔, 구",
+  "subject": "el|el56|수학",
+  "codes": [
+   "6수03-07",
+   "6수03-08"
+  ],
+  "reason": "원기둥·원뿔·구의 성질과 원기둥 전개도",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "ms1-1wm049b": {
+  "unit": "소인수분해",
+  "subject": "ms|ms1|수학",
+  "codes": [
+   "9수01-01",
+   "9수01-02"
+  ],
+  "reason": "소인수분해와 최대공약수·최소공배수",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "ms1-1jy21r4": {
+  "unit": "정수와 유리수",
+  "subject": "ms|ms1|수학",
+  "codes": [
+   "9수01-03",
+   "9수01-04",
+   "9수01-05"
+  ],
+  "reason": "정수·유리수 개념, 대소, 사칙계산",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "ms1-1d9qoc": {
+  "unit": "문자와 식",
+  "subject": "ms|ms1|수학",
+  "codes": [
+   "9수02-01",
+   "9수02-02",
+   "9수02-03",
+   "9수02-04"
+  ],
+  "reason": "문자 사용과 일차식 계산, 일차방정식",
+  "mismatch": "고시는 '문자의 사용과 식'과 '일차방정식'으로 나뉨, 교과서 단원이 둘을 묶음",
+  "confidence": "high"
+ },
+ "ms1-1huawk": {
+  "unit": "좌표평면과 그래프",
+  "subject": "ms|ms1|수학",
+  "codes": [
+   "9수02-05",
+   "9수02-06",
+   "9수02-07"
+  ],
+  "reason": "순서쌍·좌표, 그래프 해석, 정비례·반비례",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "ms1-vlwn4w": {
+  "unit": "기본 도형",
+  "subject": "ms|ms1|수학",
+  "codes": [
+   "9수03-01",
+   "9수03-02",
+   "9수03-03",
+   "9수03-04"
+  ],
+  "reason": "점·선·면·각, 평행선 성질, 작도와 합동",
+  "mismatch": "고시 '작도와 합동'을 교과서가 기본 도형 단원에 포함하는 것으로 판단",
+  "confidence": "medium"
+ },
+ "ms1-4e32un": {
+  "unit": "평면도형",
+  "subject": "ms|ms1|수학",
+  "codes": [
+   "9수03-05",
+   "9수03-06"
+  ],
+  "reason": "다각형의 성질, 부채꼴",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "ms1-y2l31f": {
+  "unit": "입체도형",
+  "subject": "ms|ms1|수학",
+  "codes": [
+   "9수03-07",
+   "9수03-08"
+  ],
+  "reason": "다면체·회전체 성질, 겉넓이와 부피",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "ms1-1kyajs": {
+  "unit": "통계",
+  "subject": "ms|ms1|수학",
+  "codes": [
+   "9수04-01",
+   "9수04-02",
+   "9수04-03",
+   "9수04-04"
+  ],
+  "reason": "대푯값, 도수분포표·히스토그램, 상대도수, 통계적 탐구",
+  "mismatch": "고시는 중학교 1~3학년군이라 학년 구분이 없음, 중1 통계 내용 기준",
+  "confidence": "medium"
+ },
+ "ms2-1mvsdng": {
+  "unit": "유리수와 순환소수",
+  "subject": "ms|ms2|수학",
+  "codes": [
+   "9수01-06"
+  ],
+  "reason": "순환소수와 유리수의 관계",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "ms2-p1oydf": {
+  "unit": "식의 계산",
+  "subject": "ms|ms2|수학",
+  "codes": [
+   "9수02-08",
+   "9수02-09",
+   "9수02-10"
+  ],
+  "reason": "지수법칙, 다항식의 덧셈·뺄셈, 단항식·다항식 곱셈과 나눗셈",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "ms2-llsmqe": {
+  "unit": "일차부등식",
+  "subject": "ms|ms2|수학",
+  "codes": [
+   "9수02-11",
+   "9수02-12"
+  ],
+  "reason": "부등식의 성질과 일차부등식 풀이·활용",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "ms2-da2c90": {
+  "unit": "연립일차방정식",
+  "subject": "ms|ms2|수학",
+  "codes": [
+   "9수02-13"
+  ],
+  "reason": "미지수 2개인 연립일차방정식 풀이·활용",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "ms2-nlvxsw": {
+  "unit": "일차함수와 그 그래프",
+  "subject": "ms|ms2|수학",
+  "codes": [
+   "9수02-14",
+   "9수02-15",
+   "9수02-16"
+  ],
+  "reason": "함수 개념, 일차함수 그래프와 성질",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "ms2-108p1q1": {
+  "unit": "일차함수와 일차방정식의 관계",
+  "subject": "ms|ms2|수학",
+  "codes": [
+   "9수02-17",
+   "9수02-18"
+  ],
+  "reason": "일차함수와 일차방정식, 연립방정식의 관계",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "ms2-uzsx19": {
+  "unit": "삼각형과 사각형의 성질",
+  "subject": "ms|ms2|수학",
+  "codes": [
+   "9수03-09",
+   "9수03-10",
+   "9수03-11"
+  ],
+  "reason": "이등변삼각형, 외심·내심, 사각형의 성질",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "ms2-m3rx7l": {
+  "unit": "도형의 닮음",
+  "subject": "ms|ms2|수학",
+  "codes": [
+   "9수03-12",
+   "9수03-13",
+   "9수03-14"
+  ],
+  "reason": "닮음의 뜻과 성질, 삼각형 닮음 조건, 평행선과 선분의 비",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "ms2-1diu86l": {
+  "unit": "피타고라스 정리",
+  "subject": "ms|ms2|수학",
+  "codes": [
+   "9수03-15"
+  ],
+  "reason": "피타고라스 정리",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "ms2-kr4l7m": {
+  "unit": "경우의 수와 확률",
+  "subject": "ms|ms2|수학",
+  "codes": [
+   "9수04-05",
+   "9수04-06"
+  ],
+  "reason": "경우의 수와 확률",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "ms3-1wm817b": {
+  "unit": "실수와 그 계산",
+  "subject": "ms|ms3|수학",
+  "codes": [
+   "9수01-07",
+   "9수01-08",
+   "9수01-09",
+   "9수01-10"
+  ],
+  "reason": "제곱근, 무리수, 실수 대소, 근호 계산",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "ms3-1dkei4m": {
+  "unit": "다항식의 곱셈과 인수분해",
+  "subject": "ms|ms3|수학",
+  "codes": [
+   "9수02-19"
+  ],
+  "reason": "다항식의 곱셈과 인수분해",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "ms3-mqr5as": {
+  "unit": "이차방정식",
+  "subject": "ms|ms3|수학",
+  "codes": [
+   "9수02-20"
+  ],
+  "reason": "이차방정식 풀이와 활용",
+  "mismatch": "입력 고시 하위영역 표기가 '다항식의 곱셈과 인수분해'로 묶여 있음",
+  "confidence": "high"
+ },
+ "ms3-tzp7wb": {
+  "unit": "이차함수",
+  "subject": "ms|ms3|수학",
+  "codes": [
+   "9수02-21",
+   "9수02-22"
+  ],
+  "reason": "이차함수 개념과 그래프 성질",
+  "mismatch": "입력 고시 하위영역 표기가 '다항식의 곱셈과 인수분해'로 묶여 있음",
+  "confidence": "high"
+ },
+ "ms3-1cbn37w": {
+  "unit": "삼각비",
+  "subject": "ms|ms3|수학",
+  "codes": [
+   "9수03-16",
+   "9수03-17"
+  ],
+  "reason": "삼각비의 뜻과 활용",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "ms3-1sxa2rw": {
+  "unit": "원의 성질",
+  "subject": "ms|ms3|수학",
+  "codes": [
+   "9수03-18",
+   "9수03-19"
+  ],
+  "reason": "현·접선의 성질과 원주각",
+  "mismatch": "",
+  "confidence": "high"
+ },
+ "ms3-62nady": {
+  "unit": "통계",
+  "subject": "ms|ms3|수학",
+  "codes": [
+   "9수04-07",
+   "9수04-08",
+   "9수04-09"
+  ],
+  "reason": "산포도, 상자그림, 산점도와 상관관계",
+  "mismatch": "고시는 중학교 1~3학년군이라 학년 구분이 없음, 중3 통계 내용 기준",
+  "confidence": "medium"
+ }
+}
